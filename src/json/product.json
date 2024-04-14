@@ -1,0 +1,38 @@
+[
+    {
+        "img": "https://tse3.mm.bing.net/th?id=OIP.vbHfsrK2IfWE1ZT9NMw5PgHaE7&pid=Api&P=0&h=180",
+        "name": "mobile",
+        "id": 1,
+        "description": "A mobile phone is a wireless handheld device that allows users to make and   receive calls."
+    },
+    {
+       
+
+        "img": "https://images-na.ssl-images-amazon.com/images/I/812NShN3MpL._SL1500_.jpg",
+        "name": "Laptop",
+        "id": 2,
+        "description": "A Laptop phone is a wireless handheld device that allows users to make and   receive calls."
+    },
+
+    {
+        "img": "https://wallpapercave.com/wp/wp1925045.jpg",
+        "name": "Bike",
+        "id": 3,
+        "description": "A Bike phone is a wireless handheld device that allows users to make and   receive calls."
+    },
+
+    {
+        "img": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg",
+        "name": "Car",
+        "id": 4,
+        "description": "A Car phone is a wireless handheld device that allows users to make and   receive calls."
+    },
+
+    {
+        "img": "https://assets.hardwarezone.com/img/2014/02/LG_Inverter_AC_2.jpg",
+        "name": "AC",
+        "id": 5,
+        "description": "A AC phone is a wireless handheld device that allows users to make and   receive calls."
+    }
+
+]
